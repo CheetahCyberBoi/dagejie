@@ -2,6 +2,11 @@
 The great Migration will occur once this todo list is done.
 Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.config, then install the things
 
+# NON-APP THINGS TO CONFIGURE
+- Fonts (mono: FiracodeNerd, sans: NotoFonts)
+- Colorscheme (either Nord or Everforest, likely the latter)
+- Wallpaper (search discord dms for it)
+
 # APPS TO CONFIGURE
 - i3wm (i3)
 - Picom (picom)
@@ -24,7 +29,6 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 ### end
 - zsh (zsh)
 - Fcitx5 (chinese, english)
-
 
 # OPTIONAL APPS
 - music player daemon (mpd)
