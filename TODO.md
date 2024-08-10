@@ -11,6 +11,7 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 - i3wm (i3)
 - Picom (picom)
 - mako (mako, makod)
+- Nitrogen (wallpapers, look for alternatives too)
 ### Pick 1:
 - Alacritty (alacritty)
 - Kitty (kitty, kitten)
