@@ -39,6 +39,18 @@ capabilities.textDocument.completion.completionItem.resolveSupport = {
   properties = { "documentation", "detail", "additionalTextEdits" },
 }
 
+-- Setup Treesitter (so it actually works)
+require('nvim-treesitter.configs').setup {
+  highlight = {
+    enable = true,
+    -- setting this to true will run `:h syntax` and tree-sitter at the same time.
+    -- set this to `true` if you depend on syntax being enabled (like for indentation).
+    -- Using this option may slow down the editor, and may see some duplicate highlights.
+    -- Instead of true it can also be a list of langs
+    additional_vim_regex_highlighting = false,
+  }
+}
+
 
 -- Setup ClangD (for C/C++)
 require('lspconfig').clangd.setup{
