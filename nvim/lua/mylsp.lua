@@ -80,3 +80,12 @@ require('lspconfig').rust_analyzer.setup{
     },
   }
 }
+
+-- setup GDScript (for GDScript)
+require('lspconfig').gdscript.setup{}
+
+-- setup GDShader_lsp (for GDShader, closely related to GLSL)
+require('lspconfig').gdshader_lsp.setup{}
+
+-- setup glsl_analyser (for GLSL)
+require('lspconfig').glsl_analyser.setup{}
