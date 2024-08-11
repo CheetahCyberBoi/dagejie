@@ -88,4 +88,4 @@ require('lspconfig').gdscript.setup{}
 require('lspconfig').gdshader_lsp.setup{}
 
 -- setup glsl_analyser (for GLSL)
-require('lspconfig').glsl_analyser.setup{}
+require('lspconfig').glsl_analyzer.setup{}
