@@ -30,6 +30,7 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 ### end
 - zsh (zsh)
 - Fcitx5 (chinese, english)
+- Pick a display manager, configure it (likely SDDM)
 
 # OPTIONAL APPS
 - music player daemon (mpd)
