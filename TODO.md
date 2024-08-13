@@ -22,7 +22,6 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 - polybar (polybar)
 ### end
 - rofi (rofi, add calc and the like)
-- kanata (map caps to esc/ctrl)
 ### Pick 1:
 - Thunar (XFCE)
 - Dolphin (KDE)
@@ -37,3 +36,4 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 
 # APPS FINISHED CONFIGURATION
 - Neovim (nvim)
+- kanata (map caps to esc/ctrl, NOTE: follow the instructions at https://github.com/jtroo/kanata/wiki/Avoid-using-sudo-on-Linux before installing (needs a restart))

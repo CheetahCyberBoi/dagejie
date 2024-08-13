@@ -1,0 +1,2 @@
+Please copy the attached `kanata.service` file to the directory `~/.config/systemd/user/`. Make the directorie(s) if they are already not there.
+Start and stop the service by using regular systemctl commands prepended with `--user` on them. You may have to run `systemctl --user daemon-reload` after copying them.
