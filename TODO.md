@@ -27,8 +27,6 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 - Dolphin (KDE)
 - Nautilus (GNOME)
 ### end
-- zsh (zsh)
-- Fcitx5 (chinese, english)
 - Pick a display manager, configure it (likely SDDM)
 
 # OPTIONAL APPS
@@ -37,3 +35,7 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 # APPS FINISHED CONFIGURATION
 - Neovim (nvim)
 - kanata (map caps to esc/ctrl, NOTE: follow the instructions at https://github.com/jtroo/kanata/wiki/Avoid-using-sudo-on-Linux before installing (needs a restart))
+
+# APPS NEEDING ONSITE CONFIGURATION
+- zsh (zsh)
+- Fcitx5 (chinese, english)
