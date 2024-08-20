@@ -35,7 +35,7 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 # APPS FINISHED CONFIGURATION
 - Neovim (nvim)
 - kanata (map caps to esc/ctrl, NOTE: follow the instructions at https://github.com/jtroo/kanata/wiki/Avoid-using-sudo-on-Linux before installing (needs a restart))
+- zsh (zsh)
 
 # APPS NEEDING ONSITE CONFIGURATION
-- zsh (zsh)
 - Fcitx5 (chinese, english)
