@@ -33,7 +33,7 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 - Neovim (nvim)
 - kanata (map caps to esc/ctrl, NOTE: follow the instructions at https://github.com/jtroo/kanata/wiki/Avoid-using-sudo-on-Linux before installing (needs a restart))
 - zsh (zsh)
-- Alacritty (alacritty)
+- Kitty (kitty, kitten)
 
 # APPS NEEDING ONSITE CONFIGURATION
 - Fcitx5 (chinese, english)
