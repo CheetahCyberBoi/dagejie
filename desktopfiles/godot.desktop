@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/cheetah/.local/bin/godot.x86_64
+Name=Godot Engine
+Comment=Open-source game engine
+Icon=/home/cheetah/.local/share/godot/godot.svg
+Categories=Development;Game;

@@ -4,17 +4,14 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 
 # NON-APP THINGS TO CONFIGURE
 - Fonts (mono: FiracodeNerd, sans: NotoFonts)
-- Colorscheme (either Nord or Everforest, likely the latter)
+- Colorscheme (Everforest)
 - Wallpaper (search discord dms for it)
 
 # APPS TO CONFIGURE
 - i3wm (i3)
 - Picom (picom)
-- mako (mako, makod)
+- dunst (dunst)
 - Nitrogen (wallpapers, look for alternatives too)
-### Pick 1:
-- Alacritty (alacritty)
-- Kitty (kitty, kitten)
 ### end
 - eww (bar)
 - eww (powermenu)
@@ -36,6 +33,7 @@ Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.
 - Neovim (nvim)
 - kanata (map caps to esc/ctrl, NOTE: follow the instructions at https://github.com/jtroo/kanata/wiki/Avoid-using-sudo-on-Linux before installing (needs a restart))
 - zsh (zsh)
+- Alacritty (alacritty)
 
 # APPS NEEDING ONSITE CONFIGURATION
 - Fcitx5 (chinese, english)
