@@ -1,30 +1,27 @@
 # THE GREAT MIGRATION （大割接）
 The great Migration will occur once this todo list is done.
 Reminder: Install Arch first, then set up drivers, then clone this repo into ~/.config, then install the things
+We're likely going to do Wayland as it's more modern and backwards compatible. Whether or not we do Sway, SwayFX or Hyprland depends on many factors. Probably sway.
 
 # NON-APP THINGS TO CONFIGURE
 - Fonts (mono: FiracodeNerd, sans: NotoFonts)
-- Colorscheme (Everforest)
-- Wallpaper (search discord dms for it)
+- Colorscheme (Everforest or Catppuccin)
+- Wallpaper (check wallhaven for it - likely something forest or space related)
 
 # APPS TO CONFIGURE
-- i3wm (i3)
-- Picom (picom)
-- dunst (dunst)
-- Nitrogen (wallpapers, look for alternatives too)
-### end
+- sway (window manager)
+- mako (nofitications)
+- swaybg (wallpaper)
 - eww (bar)
 - eww (powermenu)
 ### Backup for bar
 - polybar (polybar)
 ### end
-- rofi (rofi, add calc and the like)
-### Pick 1:
-- Thunar (XFCE)
-- Dolphin (KDE)
-- Nautilus (GNOME)
-### end
 - Pick a display manager, configure it (likely SDDM)
+- gammastep (nighttime gamma shift)
+- Onagre (menu) (alternative: rofi-wayland)
+- wlgreet (login screen)
+- swaylock (locking screen)
 
 # OPTIONAL APPS
 - music player daemon (mpd)
