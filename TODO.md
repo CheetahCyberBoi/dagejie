@@ -5,7 +5,7 @@ We're likely going to do Wayland as it's more modern and backwards compatible. W
 
 # NON-APP THINGS TO CONFIGURE
 - Fonts (mono: FiracodeNerd, sans: NotoFonts)
-- Colorscheme (Everforest or Catppuccin)
+- Colorscheme (Everforest or Catppuccin or Gruvbox, maybe OneNord - depends on the wallpaper (for milky way: Onenord, jupiter: Gruvbox, for any forest wallpaper: Everforest, for ISS: Gruvchad (check https://base46.vercel.app)))
 - Wallpaper (check wallhaven for it - likely something forest or space related)
 
 # APPS TO CONFIGURE
@@ -27,7 +27,7 @@ We're likely going to do Wayland as it's more modern and backwards compatible. W
 - music player daemon (mpd)
 
 # APPS FINISHED CONFIGURATION
-- Neovim (nvim)
+- Neovim (nvim, may need reconfiguration soon)
 - kanata (map caps to esc/ctrl, NOTE: follow the instructions at https://github.com/jtroo/kanata/wiki/Avoid-using-sudo-on-Linux before installing (needs a restart))
 - zsh (zsh)
 - Kitty (kitty, kitten)
