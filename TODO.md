@@ -5,7 +5,7 @@ We're likely going to do Wayland as it's more modern and backwards compatible. W
 
 # NON-APP THINGS TO CONFIGURE
 - Fonts (mono: FiracodeNerd, sans: NotoFonts)
-- Colorscheme (Everforest or Catppuccin or Gruvbox, maybe OneNord - depends on the wallpaper (for milky way: Onenord, jupiter: Gruvbox, for any forest wallpaper: Everforest, for ISS: Gruvchad (check https://base46.vercel.app)))
+- Colorscheme (Everforest or Catppuccin or Gruvbox, maybe OneNord - depends on the wallpaper (for milky way: Onenord, jupiter: Gruvbox, for any forest wallpaper: Everforest, for ISS: Onenord (check https://base46.vercel.app)))
 - Really good-looking palletes: Onenord, Gruvbox Medium
 - Wallpaper (check wallhaven for it - likely something forest or space related)
 
